@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  📍 <b>Braunschweig, Germany</b> | 📧 <a href="mailto:patnisiddharth1311@gmail.com">patnisiddharth1311@gmail.com</a> | 📱 +49 15510835846 
+  📍 <b>Braunschweig, Germany</b> | 📧 <a href="mailto:patnisiddharth1311@gmail.com">patnisiddharth1311@gmail.com</a> 
 </p>
 
 <p align="center">
