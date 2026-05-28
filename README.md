@@ -1,92 +1,169 @@
-# ⚡ Siddharth Patni
-### **Agentic AI Infrastructure & Full-Stack Systems Engineer**[cite: 1]
-
-<p align="left">
-  <a href="https://linkedin.com/in/siddharth-patni-644857185"><img src="https://img.shields.io/badge/Executive_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>[cite: 1]
-  <a href="https://github.com/Siddharthpatni"><img src="https://img.shields.io/badge/Open_Source_Hub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>[cite: 1]
-  <a href="https://siddharth-portfolio-pi.vercel.app"><img src="https://img.shields.io/badge/Interactive_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>[cite: 1]
+<!-- HEADER HERO SECTION -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Siddharth%20Patni&subtitle=Agentic%20AI%20%26%20Full-Stack%20Engineer&fontSize=40&subFontSize=20&animation=twinkling" width="100%" />
 </p>
-
----
-
-### 🌐 Executive Vision
-> "The future of enterprise software isn't just automated; it's autonomous. I specialize in bridging advanced cognitive modeling with production-grade cloud architectures—forging reliable, scalable, and self-healing systems."
-
-*   🚀 **Current Focus:** Deploys resilient multi-model agentic loops, high-performance distributed automation engines, and secure LLM proxies[cite: 1].
-*   🔬 **R&D Footprint:** Driving next-generation web extraction architectures within the CORE Research Group at Ostfalia & TU Clausthal[cite: 1].
-*   📍 **Operations Base:** Braunschweig, Germany (Open to high-impact technical roles and strategic collaborations)[cite: 1].
-
----
-
-## 🛠️ The Tech Matrix
-
-### 🤖 Core Capabilities
-*   **Agentic Engineering & LLMOps:** Autonomous multi-agent pipelines (LangChain), prompt compilation, evaluation loops, dynamic routing, code sandboxing, AST analysis[cite: 1].
-*   **High-Throughput Backends:** Distributed workflow coordination, real-time streaming architectures, event-driven microservices[cite: 1].
-*   **Enterprise Integration:** Bundle optimization, custom CI/CD engineering, ironclad input sanitization layers[cite: 1].
-
-<details>
-<summary><b>💼 View Technology Stack Stack</b></summary>
-<br />
-
-| Vector | Technologies Deployment |
-| :--- | :--- |
-| **Artificial Intelligence** | LangChain, OpenRouter, Anthropic, OpenAI, Gemini, PyTorch, Hugging Face, OpenCV[cite: 1] |
-| **Backend & Architecture** | Python, FastAPI, Node.js, Express, TypeScript, Flask, Bash, REST APIs, WebSockets[cite: 1] |
-| **Infrastructure & Data** | Docker, Redis, Celery, GitHub Actions, PostgreSQL, MongoDB, MinIO/S3, Playwright[cite: 1] |
-</details>
-
----
-
-## 🚀 Key Ventures & Engineering Impact
-
-### 🛡️ Sentinel — Enterprise LLM Observability
-*   Architected a high-performance, drop-in proxy infrastructure for unified OpenAI and Anthropic pipelines.
-*   Engineered real-time tracing systems, custom evaluation layers, and a secure audit-logging framework built for EU AI Act compliance standards.
-
-### 🔬 Multi-Model Scraper Generation Pipelines — *CORE Research Group*[cite: 1]
-*   Designed self-healing automated feedback loops utilizing sandboxed runtime code execution to dramatically reduce script failure rates[cite: 1].
-*   Conducted rigorous latency-to-cost matrix analysis across tier-one foundation models to guarantee optimal production-level routing decisions[cite: 1].
-
-### 🔄 Distributed Workflow Engine
-*   Developed a high-scale, node-based visual automation builder supporting asynchronous conditional branching and complex JSON transformations[cite: 1].
-*   Optimized data synchronization overhead between reactive UI layers and scalable Python/Node.js worker nodes[cite: 1].
-
----
-
-## 📈 Experience & Milestones
-
-<details>
-<summary><b>⏱️ View Professional Timeline</b></summary>
-<br />
-
-*   **2025 – Present** | **M.Sc. Digital Technologies Candidate** – *Ostfalia & TU Clausthal, Germany*[cite: 1]  
-    *Focused on advanced distributed systems, cognitive agent design, and industrial scale digitalization.*[cite: 1]
-*   **2023 – 2024** | **Software Developer Intern** – *L&T Technology Services*[cite: 1]  
-    *Optimized core API response latencies, cutting perceived client load times by **30%** via strategic microservice dockerization and advanced caching policies.*[cite: 1]
-*   **2021 – 2024** | **B.Tech. Computer Engineering** – *CHARUSAT*[cite: 1]  
-    *Graduated with a focus on fundamental computing principles, database design, and algorithmic optimization.*
-</details>
-
-<details>
-<summary><b>🏆 Honors & Industry Certifications</b></summary>
-<br />
-
-*   🏅 **Digitalization Laureate** | *BMW Group TechWorks Romania* — Recognized for exceptional execution during an elite 24-hour architectural hackathon.
-*   🤖 **Fundamentals of Robotics & Industrial Automation** | *Siemens* (`Mar 2026`)[cite: 1]
-*   📊 **Data Analytics Professional** | *University of Ottawa* (`2023`)[cite: 1]
-</details>
-
----
-
-## 📊 Live System Metrics
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Siddharthpatni&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharthpatni&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 <p align="center">
-  🌐 <i>Let's connect to build the next paradigm of cognitive software.</i> 🌐
+  📍 <b>Braunschweig, Germany</b> | 📧 <a href="mailto:patnisiddharth1311@gmail.com">patnisiddharth1311@gmail.com</a> | 📱 +49 15510835846[cite: 1]
 </p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/siddharth-patni-644857185"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>[cite: 1]
+  <a href="https://siddharth-portfolio-pi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>[cite: 1]
+  <a href="https://github.com/Siddharthpatni"><img src="https://img.shields.io/github/followers/Siddharthpatni?style=for-the-badge&logo=github&label=Follow"/></a>[cite: 1]
+</p>
+
+---
+
+<!-- INTERACTIVE NAVIGATION BAR -->
+<p align="center">
+  🕵️ <b><a href="#-interactive-dashboard">Explore Dashboard</a></b> | 
+  🚀 <b><a href="#-featured-projects-grid">Project Hub</a></b> | 
+  🛠️ <b><a href="#-interactive-skills-matrix">Skills Matrix</a></b> | 
+  🎓 <b><a href="#-academic-timeline">Academic Timeline</a></b>
+</p>
+
+---
+
+## 🕵️ Interactive Profile Dashboard
+> *Click on the sections below to dynamically expand my engineering portfolio and experience layers.*
+
+<details open>
+  <summary><b>🤖 Executive Summary & Focus Areas</b></summary>
+  <br />
+  I am a full-stack developer and Master's student in Digital Technologies, passionate about connecting software development with the future of AI[cite: 1]. My focus is on building robust, cloud-connected systems, especially using agentic AI and LLM pipelines[cite: 1]. I bring a strong, hands-on background in key technologies like Python, FastAPI, Docker, Playwright, and ML frameworks, with a growing portfolio of AI-first applications[cite: 1].
+</details>
+
+<details>
+  <summary><b>🔬 Research & Industry Cooperation (Ostfalia / TU Clausthal)</b></summary>
+  <br />
+  
+  ### **Agentic AI for Automated Web Data Extraction** | *CORE Research Group* · `SoSe 2026`[cite: 1]
+  * **Scalable Extraction:** Built and evaluated LLM-based scraper generation pipelines using Python, Playwright, and multi-model LLM APIs (OpenRouter)[cite: 1].
+  * **Self-Healing Loops:** Implemented automated feedback loops with sandboxed code execution to verify script reliability[cite: 1].
+  * **Benchmarking Infrastructure:** Conducted comparative benchmarks across multiple LLM providers; analyzed cost, latency, and success rate trade-offs to identify optimal models for production use[cite: 1].
+  * **Autonomous UI Execution:** Explored Computer-Use Agent (CUA) architectures for GUI-based autonomous web interaction; contributed to a cascaded FastAPI pipeline with asynchronous job processing and persistent document storage[cite: 1].
+</details>
+
+<details>
+  <summary><b>💼 Professional Experience History</b></summary>
+  <br />
+
+  ### **Software Developer Intern** | *L&T Technology Services* · `Dec 2023 - Apr 2024`[cite: 1]
+  * **Performance Optimization:** Refactored React component layer and Flask APIs; reduced perceived load times by ~30% through bundle optimization and response caching[cite: 1].
+  * **CI/CD Integration:** Dockerized microservices and integrated into Linux-based CI/CD pipeline, reducing environment-specific regressions[cite: 1].
+  * **Architecture Quality:** Standardized API-UI contracts and added input validation, reducing cross-team integration defects[cite: 1].
+</details>
+
+---
+
+## 🚀 Featured Projects Grid
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ Sentinel</h3>
+      <p><b>Open-Source LLM Observability Platform</b></p>
+      <ul>
+        <li>Drop-in proxy infrastructure for OpenAI and Anthropic models[cite: 1].</li>
+        <li>Provides comprehensive execution traces, evaluation layers, and smart routing[cite: 1].</li>
+        <li>Integrated compliance-ready EU AI Act audit logs and automated real-time alerts[cite: 1].</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ Cereforge</h3>
+      <p><b>AI Learning & Knowledge Platform</b></p>
+      <ul>
+        <li>Adaptive learning platform using LLM-generated content pipelines[cite: 1].</li>
+        <li>Personalizes study paths based on user progress and identified knowledge gaps[cite: 1].</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔄 Workflow Engine</h3>
+      <p><b>Visual No-Code Automation Builder</b></p>
+      <ul>
+        <li>Node-based visual workflow editor for building multi-step automations[cite: 1].</li>
+        <li>Production-scale support for conditional branching and REST API integrations[cite: 1].</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 ShopMate-R</h3>
+      <p><b>AI-Powered Retail Assistant</b></p>
+      <ul>
+        <li>AI shopping assistant with natural-language product search capabilities[cite: 1].</li>
+        <li>Integrates LLM reasoning with structured product data for Pepper and Temi robots[cite: 1].</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><b>🔍 View Production-Ready Media & Medical Pipelines</b></summary>
+  <br />
+
+  #### 🎬 **AI-Driven Video Production Pipeline (2024)**[cite: 1]
+  * *Tech Stack:* `Python` | `FastAPI` | `OpenCV` | `Hugging Face` | `FFmpeg` | `Redis`[cite: 1]
+  * Automated captioning, media retrieval and GPU-accelerated rendering; reduced production turnaround from 6 hours to 20 minutes[cite: 1].
+
+  #### 🩺 **Multi-Disease Diagnostic Web App (2023)**[cite: 1]
+  * *Tech Stack:* `Python` | `Flask` | `OpenCV` | `scikit-learn`[cite: 1]
+  * End-to-end diagnostic pipeline with ~85% accuracy; reduced per-case processing time from 30 minutes to 10 seconds[cite: 1].
+</details>
+
+---
+
+## 🛠️ Interactive Skills Matrix
+
+<details>
+  <summary><b>🧠 Artificial Intelligence & Agentic Engineering</b></summary>
+  <br />
+  <p align="left">
+    <img src="https://img.shields.io/badge/Agentic_AI-Deep_Dive-FF6B6B?style=flat-square" />[cite: 1]
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />[cite: 1]
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />[cite: 1]
+    <img src="https://img.shields.io/badge/Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white" />[cite: 1]
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />[cite: 1]
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />[cite: 1]
+  </p>
+</details>
+
+<details>
+  <summary><b>💻 Backend Ecosystem & Frameworks</b></summary>
+  <br />
+  <p align="left">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />[cite: 1]
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />[cite: 1]
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />[cite: 1]
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />[cite: 1]
+    <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />[cite: 1]
+  </p>
+</details>
+
+<details>
+  <summary><b>🐳 Infrastructure, Databases & Frontend</b></summary>
+  <br />
+  <p align="left">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />[cite: 1]
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />[cite: 1]
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />[cite: 1]
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />[cite: 1]
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />[cite: 1]
+    <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />[cite: 1]
+  </p>
+</details>
+
+---
+
+## 🎓 Academic Timeline
+
+```text
+ 🕒 Mar 2025 - Present   M.Sc. Digital Technologies @ Ostfalia & TU Clausthal (Germany)
+                         └─ GPA: 2.80 | Focus: Distributed Systems & Agentic Implementations
+
+ 🕒 Jul 2021 - May 2024  B.Tech. Computer Engineering @ CHARUSAT (India)
+                         └─ CGPA: 7.6 / 10
+
+ 🕒 Jun 2018 - Jun 2021  Diploma in Computer Engineering @ GTU (India)
+                         └─ CGPA: 8.92 / 10
