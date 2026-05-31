@@ -160,7 +160,7 @@
 
 ```text
  🕒 Mar 2025 - Present   M.Sc. Digital Technologies @ Ostfalia & TU Clausthal (Germany)
-                         └─ GPA: 2.80 | Focus: Distributed Systems & Agentic Implementations
+                         └─ GPA: 2.80 (German scale, 1.0 = best) | Focus: Distributed Systems & Agentic Implementations
 
  🕒 Jul 2021 - May 2024  B.Tech. Computer Engineering @ CHARUSAT (India)
                          └─ CGPA: 7.6 / 10
