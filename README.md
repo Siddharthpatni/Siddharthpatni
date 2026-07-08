@@ -97,6 +97,17 @@
       </ul>
     </td>
   </tr>
+  <tr>
+    <td width="100%" colspan="2" valign="top">
+      <h3>🕷️ Spidey</h3>
+      <p><b>Self-Hostable AI Agent with a Live Reasoning Web</b></p>
+      <ul>
+        <li>Autonomous agent that reads files, searches code, writes changes, and runs commands — while a live React Flow graph draws every thought and tool call in real time.</li>
+        <li>Bring your own model (Claude · Gemini · GPT) or run it free and fully offline on open-weight models via Ollama; keys never leave the browser.</li>
+        <li>"Hey Spidey" on-device voice, a two-stage SFT → DPO training pipeline, and a safety layer with command screening + path confinement.</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 <details>
