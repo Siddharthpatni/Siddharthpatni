@@ -31,7 +31,7 @@
 <details open>
   <summary><b>🤖 Executive Summary & Focus Areas</b></summary>
   <br />
-  I am a full-stack developer and Master's student in Digital Technologies, passionate about connecting software development with the future of AI . My focus is on building robust, cloud-connected systems, especially using agentic AI and LLM pipelines . I bring a strong, hands-on background in key technologies like Python, FastAPI, Docker, Playwright, and ML frameworks, with a growing portfolio of AI-first applications .
+  I am a full-stack developer and Master's student in Digital Technologies, passionate about connecting software development with the future of AI . My focus is on building robust, cloud-connected systems, especially using agentic AI and LLM pipelines . I bring a strong, hands-on background in key technologies like Python, FastAPI, Docker, Playwright, and ML frameworks, with a growing portfolio of AI-first applications . My flagship project, <b>🕷️ Spidey</b>, is a self-hostable AI agent with a live reasoning web — it runs your model of choice (Claude · Gemini · GPT) or fully offline via Ollama, visualizes every tool call in real time, and ships its own SFT → DPO training pipeline to make small open models reliable at tool-calling .
 </details>
 
 <details>
@@ -60,6 +60,17 @@
 ## 🚀 Featured Projects Grid
 
 <table width="100%">
+  <tr>
+    <td width="100%" colspan="2" valign="top">
+      <h3>🕷️ Spidey — <i>Flagship</i></h3>
+      <p><b>Self-Hostable AI Agent with a Live Reasoning Web</b></p>
+      <ul>
+        <li>Autonomous agent that reads files, searches code, writes changes, and runs commands — while a live React Flow graph draws every thought and tool call in real time.</li>
+        <li>Bring your own model (Claude · Gemini · GPT) or run it free and fully offline on open-weight models via Ollama; keys never leave the browser.</li>
+        <li>"Hey Spidey" on-device voice, a two-stage SFT → DPO training pipeline, and a safety layer with command screening + path confinement.</li>
+      </ul>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🛡️ Sentinel</h3>
@@ -97,17 +108,6 @@
       </ul>
     </td>
   </tr>
-  <tr>
-    <td width="100%" colspan="2" valign="top">
-      <h3>🕷️ Spidey</h3>
-      <p><b>Self-Hostable AI Agent with a Live Reasoning Web</b></p>
-      <ul>
-        <li>Autonomous agent that reads files, searches code, writes changes, and runs commands — while a live React Flow graph draws every thought and tool call in real time.</li>
-        <li>Bring your own model (Claude · Gemini · GPT) or run it free and fully offline on open-weight models via Ollama; keys never leave the browser.</li>
-        <li>"Hey Spidey" on-device voice, a two-stage SFT → DPO training pipeline, and a safety layer with command screening + path confinement.</li>
-      </ul>
-    </td>
-  </tr>
 </table>
 
 <details>
@@ -136,7 +136,10 @@
     <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" /> 
     <img src="https://img.shields.io/badge/Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white" /> 
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+    <img src="https://img.shields.io/badge/React_Flow-FF0072?style=flat-square" />
+    <img src="https://img.shields.io/badge/Fine--Tuning_(SFT_%2B_DPO)-FF6B00?style=flat-square" /> 
   </p>
 </details>
 
