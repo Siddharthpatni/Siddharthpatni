@@ -1,6 +1,6 @@
 <!-- HEADER HERO SECTION -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Siddharth%20Patni&subtitle=Agentic%20AI%20%26%20Full-Stack%20Engineer&fontSize=40&subFontSize=20&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B11313,100:1A237E&height=220&section=header&text=Siddharth%20Patni&subtitle=Agentic%20AI%20%26%20Full-Stack%20Engineer&fontSize=42&subFontSize=20&fontColor=ffffff&subFontColor=f5f5f5&animation=twinkling" width="100%" />
 </p>
 
 <p align="center">
@@ -10,191 +10,109 @@
 <p align="center">
   <a href="https://linkedin.com/in/siddharth-patni-644857185"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
   <a href="https://siddharth-portfolio-pi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a> 
-  <a href="https://github.com/Siddharthpatni"><img src="https://img.shields.io/github/followers/Siddharthpatni?style=for-the-badge&logo=github&label=Follow"/></a> 
+  <a href="https://github.com/Siddharthpatni"><img src="https://img.shields.io/github/followers/Siddharthpatni?style=for-the-badge&logo=github&label=Follow&color=1A237E"/></a> 
 </p>
 
 ---
 
 <!-- INTERACTIVE NAVIGATION BAR -->
 <p align="center">
-  🕵️ <b><a href="#-interactive-dashboard">Explore Dashboard</a></b> | 
-  🚀 <b><a href="#-featured-projects-grid">Project Hub</a></b> | 
-  🛠️ <b><a href="#-interactive-skills-matrix">Skills Matrix</a></b> | 
-  🎓 <b><a href="#-academic-timeline">Academic Timeline</a></b>
+  🕵️ <b><a href="#-core-focus">Core Focus</a></b> | 
+  🚀 <b><a href="#-flagship-project">Flagship Project</a></b> | 
+  ⚙️ <b><a href="#-production-pipelines--research">Research & Industry</a></b> | 
+  🛠️ <b><a href="#-skills-matrix">Skills Matrix</a></b> | 
+  🎓 <b><a href="#-academic-timeline">Education</a></b>
 </p>
 
 ---
 
-## 🕵️ Interactive Profile Dashboard
-> *Click on the sections below to dynamically expand my engineering portfolio and experience layers.*
+## 🕵️ Core Focus & Research
 
-<details open>
-  <summary><b>🤖 Executive Summary & Focus Areas</b></summary>
-  <br />
-  I am a full-stack developer and Master's student in Digital Technologies, passionate about connecting software development with the future of AI . My focus is on building robust, cloud-connected systems, especially using agentic AI and LLM pipelines . I bring a strong, hands-on background in key technologies like Python, FastAPI, Docker, Playwright, and ML frameworks, with a growing portfolio of AI-first applications . My flagship project, <b>🕷️ Spidey</b>, is a self-hostable AI agent with a live reasoning web — it runs your model of choice (Claude · Gemini · GPT) or fully offline via Ollama, visualizes every tool call in real time, and ships its own SFT → DPO training pipeline to make small open models reliable at tool-calling .
-</details>
+I am a Full-Stack & AI Engineer pursuing a dual Master's degree in **Artificial Intelligence** (TU Clausthal) and **Digital Technologies** (Ostfalia University). I design and build secure, autonomous agent systems, custom LLM fine-tuning pipelines, and high-performance web infrastructure. 
 
-<details>
-  <summary><b>🔬 Research & Industry Cooperation (Ostfalia / TU Clausthal)</b></summary>
-  <br />
-  
-  ### **Agentic AI for Automated Web Data Extraction** | *CORE Research Group* · `SoSe 2026` 
-  * **Scalable Extraction:** Built and evaluated LLM-based scraper generation pipelines using Python, Playwright, and multi-model LLM APIs (OpenRouter) .
-  * **Self-Healing Loops:** Implemented automated feedback loops with sandboxed code execution to verify script reliability .
-  * **Benchmarking Infrastructure:** Conducted comparative benchmarks across multiple LLM providers; analyzed cost, latency, and success rate trade-offs to identify optimal models for production use .
-  * **Autonomous UI Execution:** Explored Computer-Use Agent (CUA) architectures for GUI-based autonomous web interaction; contributed to a cascaded FastAPI pipeline with asynchronous job processing and persistent document storage .
-</details>
-
-<details>
-  <summary><b>💼 Professional Experience History</b></summary>
-  <br />
-
-  ### **Software Developer Intern** | *L&T Technology Services* · `Dec 2023 - Apr 2024` 
-  * **Performance Optimization:** Refactored React component layer and Flask APIs; reduced perceived load times by ~30% through bundle optimization and response caching .
-  * **CI/CD Integration:** Dockerized microservices and integrated into Linux-based CI/CD pipeline, reducing environment-specific regressions .
-  * **Architecture Quality:** Standardized API-UI contracts and added input validation, reducing cross-team integration defects .
-</details>
-
-<details>
-  <summary><b>🕷️ Flagship: Spidey — Self-Hostable AI Agent</b></summary>
-  <br />
-
-  > *"With great power comes great responsibility."*
-
-  **[Spidey](https://github.com/Siddharthpatni/Spidey)** is an autonomous AI agent that lives on your machine: give it a task and it reads files, searches code, writes changes, and runs commands — while a live graph in your browser draws every thought and tool call as a node, in real time.
-
-  * **🕷️ Graphical brain:** a chat + live agent-graph UI (React Flow over FastAPI WebSockets) streams every step as an animated node, including the safety layer's Approve / Deny prompt.
-  * **🎙️ "Hey Spidey" — offline voice:** on-device wake word + speech-to-text (Vosk) and local TTS — no audio ever leaves the machine.
-  * **🧠 Bring your own model:** free & fully offline via Ollama, or your own Claude · Gemini · GPT key — keys stay in the browser.
-  * **🎯 Trainable brain:** a two-stage SFT → DPO pipeline teaches a small open model reliable tool-calling, with an eval harness to prove the gain.
-  * **🛡️ Safety layer:** command screening + path confinement live outside the model, so a confused or prompt-injected model can't escape the working directory.
-
-  <sub>Python · FastAPI · React · React Flow · Ollama · PyTorch · Unsloth/TRL · Flutter</sub>
-</details>
+> **Current Research Focus:** Developing specialized, local alignment methods (SFT → DPO/GRPO) to make lightweight open-weight models (~3B to 12B parameters) reliable tool-callers for real-world automation without leaking corporate or private data to external cloud APIs.
 
 ---
 
-## 🚀 Featured Projects Grid
+## 🕷️ Flagship Project: Spidey
 
-<table width="100%">
+### **A self-hostable AI agent with a live reasoning web UI**
+*Bring your own model (Claude · Gemini · GPT) or run it free and 100% offline via Ollama. Features a two-stage SFT → DPO pipeline to train its own brain.*
+
+<p align="center">
+  <a href="https://github.com/Siddharthpatni/Spidey"><b>Explore the Repository →</b></a>
+</p>
+
+*   🕸️ **The Graphical Brain:** Built on React Flow + FastAPI WebSockets. Every agent decision, file read, and command execution streams into your browser as a live, animated node graph.
+*   🎙️ **"Hey Spidey" Voice:** Fully on-device wake-word detection and local speech-to-text (using an in-process Vosk instance). Zero audio bytes ever leave your hardware.
+*   🧠 **Preference Alignment Pipeline:** Standard small models struggle with tool-use syntax. Spidey includes a containerized QLoRA SFT and Direct Preference Optimization (DPO) training flow to fix hallucinated arguments and format breaks on consumer-grade hardware.
+*   🛡️ **Out-of-Model Safety:** A hard boundary layer running outside the LLM context that screens destructive commands (`rm -rf`, unverified scripts) and enforces rigid directory path confinement.
+
+---
+
+## 🚀 Featured Production Pipelines & Research
+
+### 🔬 **Agentic AI for Automated Web Data Extraction** | *CORE Research Group* 
+*   **Self-Healing Loops:** Implemented automated feedback loops with sandboxed code execution using Python and Playwright to capture and fix runtime parsing exceptions dynamically.
+*   **Benchmarking Infrastructure:** Designed comparative evaluation harnesses to analyze cost, latent delay, and accuracy trade-offs across public and local LLM backends via unified abstraction layers.
+*   **Autonomous GUI Execution:** Explored Computer-Use Agent (CUA) patterns for browser-based automation, routing heavy task queues into an asynchronous FastAPI processing backbone.
+
+### 🛡️ **Sentinel — Enterprise LLM Observability Platform**
+*   **Drop-In Proxy:** A zero-dependency proxy layer intercepting outbound OpenAI and Anthropic API traffic to collect comprehensive execution traces and metrics.
+*   **Audit-Ready Logging:** Standardized compliance logging matching the strict structural demands of the EU AI Act, paired with real-time alerting anomalies.
+
+### 🤖 **ShopMate-R — Intelligent Robotics HRI Pipeline**
+*   **Contextual Grounding:** Mapped natural-language user intent requests into highly structured inventory databases, powering interactive frontends for physical **Pepper** and **Temi** assistive retail hardware.
+
+---
+
+## 🛠️ Tech Stack & Skills Matrix
+
+<table>
   <tr>
-    <td width="100%" colspan="2" valign="top">
-      <h3>🕷️ Spidey — <i>Flagship</i></h3>
-      <p><b>Self-Hostable AI Agent with a Live Reasoning Web</b></p>
+    <td width="33%" valign="top">
+      <h3>🧠 AI & Agents</h3>
       <ul>
-        <li>Autonomous agent that reads files, searches code, writes changes, and runs commands — while a live React Flow graph draws every thought and tool call in real time.</li>
-        <li>Bring your own model (Claude · Gemini · GPT) or run it free and fully offline on open-weight models via Ollama; keys never leave the browser.</li>
-        <li>"Hey Spidey" on-device voice, a two-stage SFT → DPO training pipeline, and a safety layer with command screening + path confinement.</li>
+        <li><b>Frameworks:</b> PyTorch, LangChain, OpenCV</li>
+        <li><b>Agent Design:</b> ReAct Loop, Multi-Agent Swarms</li>
+        <li><b>Training:</b> SFT, DPO Alignment, QLoRA Fine-tuning</li>
+        <li><b>Ecosystems:</b> Ollama, Unsloth, TRL, Hugging Face</li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ Sentinel</h3>
-      <p><b>Open-Source LLM Observability Platform</b></p>
+    <td width="33%" valign="top">
+      <h3>💻 Backend Engineering</h3>
       <ul>
-        <li>Drop-in proxy infrastructure for OpenAI and Anthropic models .</li>
-        <li>Provides comprehensive execution traces, evaluation layers, and smart routing .</li>
-        <li>Integrated compliance-ready EU AI Act audit logs and automated real-time alerts .</li>
+        <li><b>Languages:</b> Python, TypeScript, Node.js</li>
+        <li><b>Frameworks:</b> FastAPI, Flask, Express</li>
+        <li><b>Concurrency:</b> WebSockets, Asyncio, Redis Queues</li>
+        <li><b>Automation:</b> Playwright, Puppeteer</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <h3>⚡ Cereforge</h3>
-      <p><b>AI Learning & Knowledge Platform</b></p>
+    <td width="33%" valign="top">
+      <h3>🐳 Architecture & UI</h3>
       <ul>
-        <li>Adaptive learning platform using LLM-generated content pipelines .</li>
-        <li>Personalizes study paths based on user progress and identified knowledge gaps .</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔄 Workflow Engine</h3>
-      <p><b>Visual No-Code Automation Builder</b></p>
-      <ul>
-        <li>Node-based visual workflow editor for building multi-step automations .</li>
-        <li>Production-scale support for conditional branching and REST API integrations .</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 ShopMate-R</h3>
-      <p><b>AI-Powered Retail Assistant</b></p>
-      <ul>
-        <li>AI shopping assistant with natural-language product search capabilities .</li>
-        <li>Integrates LLM reasoning with structured product data for Pepper and Temi robots .</li>
+        <li><b>DevOps:</b> Docker, Linux Shell, GitHub Actions CI/CD</li>
+        <li><b>Databases:</b> PostgreSQL, Redis</li>
+        <li><b>Frontend:</b> React.js, Next.js, React Flow, Tailwind CSS</li>
+        <li><b>Mobile/Cross-Platform:</b> Flutter</li>
       </ul>
     </td>
   </tr>
 </table>
-
-<details>
-  <summary><b>🔍 View Production-Ready Media & Medical Pipelines</b></summary>
-  <br />
-
-  #### 🎬 **AI-Driven Video Production Pipeline (2024)** 
-  * *Tech Stack:* `Python` | `FastAPI` | `OpenCV` | `Hugging Face` | `FFmpeg` | `Redis` 
-  * Automated captioning, media retrieval and GPU-accelerated rendering; reduced production turnaround from 6 hours to 20 minutes .
-
-  #### 🩺 **Multi-Disease Diagnostic Web App (2023)** 
-  * *Tech Stack:* `Python` | `Flask` | `OpenCV` | `scikit-learn` 
-  * End-to-end diagnostic pipeline with ~85% accuracy; reduced per-case processing time from 30 minutes to 10 seconds .
-</details>
-
----
-
-## 🛠️ Interactive Skills Matrix
-
-<details>
-  <summary><b>🧠 Artificial Intelligence & Agentic Engineering</b></summary>
-  <br />
-  <p align="left">
-    <img src="https://img.shields.io/badge/Agentic_AI-Deep_Dive-FF6B6B?style=flat-square" /> 
-    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-    <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
-    <img src="https://img.shields.io/badge/React_Flow-FF0072?style=flat-square" />
-    <img src="https://img.shields.io/badge/Fine--Tuning_(SFT_%2B_DPO)-FF6B00?style=flat-square" /> 
-  </p>
-</details>
-
-<details>
-  <summary><b>💻 Backend Ecosystem & Frameworks</b></summary>
-  <br />
-  <p align="left">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" /> 
-  </p>
-</details>
-
-<details>
-  <summary><b>🐳 Infrastructure, Databases & Frontend</b></summary>
-  <br />
-  <p align="left">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> 
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" /> 
-  </p>
-</details>
 
 ---
 
 ## 🎓 Academic Timeline
 
 ```text
- 🕒 Mar 2025 - Present   M.Sc. Digital Technologies @ Ostfalia & TU Clausthal (Germany)
-                         └─ GPA: 2.80 (German scale, 1.0 = best) | Focus: Distributed Systems & Agentic Implementations
+ 🕒 Mar 2025 - Present   M.Sc. Artificial Intelligence / Digital Technologies
+                         ├─ TU Clausthal & Ostfalia University of Applied Sciences (Germany)
+                         └─ Core Focus: Distributed Systems, Machine Learning, Autonomous Robotics
 
- 🕒 Jul 2021 - May 2024  B.Tech. Computer Engineering @ CHARUSAT (India)
+ 🕒 Jul 2021 - May 2024   B.Tech. Computer Engineering
+                         ├─ Charotar University of Science & Technology (CHARUSAT, India)
                          └─ CGPA: 7.6 / 10
 
- 🕒 Jun 2018 - Jun 2021  Diploma in Computer Engineering @ GTU (India)
+ 🕒 Jun 2018 - Jun 2021   Diploma in Computer Engineering
+                         ├─ Gujarat Technological University (GTU, India)
                          └─ CGPA: 8.92 / 10
