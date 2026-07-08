@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B11313,100:1A237E&height=220&section=header&text=Siddharth%20Patni&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Agentic%20AI%20%26%20Full-Stack%20Engineer%20%7C%20Your%20friendly%20neighbourhood%20developer&descSize=16&descAlignY=58&descColor=f5f5f5&animation=twinkling" width="100%" alt="Siddharth Patni" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:B11313,100:1A237E&amp;height=220&amp;section=header&amp;text=Siddharth%20Patni&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=36&amp;desc=Agentic%20AI%20%26%20Full-Stack%20Engineer%20%7C%20Your%20friendly%20neighbourhood%20developer&amp;descSize=16&amp;descAlignY=58&amp;descColor=f5f5f5&amp;animation=twinkling" width="100%" alt="Siddharth Patni" />
 
 # 🕷️ Siddharth Patni
 
@@ -10,9 +10,9 @@
 
 📍 Braunschweig, Germany · 📧 [patnisiddharth1311@gmail.com](mailto:patnisiddharth1311@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddharth-patni-644857185)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://siddharth-portfolio-pi.vercel.app)
-[![GitHub](https://img.shields.io/github/followers/Siddharthpatni?style=for-the-badge&logo=github&label=Follow&color=B11313)](https://github.com/Siddharthpatni)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://linkedin.com/in/siddharth-patni-644857185)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white)](https://siddharth-portfolio-pi.vercel.app)
+[![GitHub](https://img.shields.io/github/followers/Siddharthpatni?style=for-the-badge&amp;logo=github&amp;label=Follow&amp;color=B11313)](https://github.com/Siddharthpatni)
 
 </div>
 
@@ -47,16 +47,16 @@ My flagship creation, **🕷️ Spidey**, is a self-hostable AI agent with a liv
 <td width="34%" valign="top">
 
 ### 🕸️ Spider-Sense
-**AI & Agentic Engineering**
+**AI &amp; Agentic Engineering**
 `████████████` full power
 
 <img src="https://img.shields.io/badge/Agentic_AI-Deep_Dive-B11313?style=flat-square" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&amp;logo=langchain&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&amp;logo=openai&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Anthropic-D97757?style=flat-square&amp;logo=anthropic&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&amp;logo=opencv&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&amp;logo=ollama&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/React_Flow-FF0072?style=flat-square" />
 <img src="https://img.shields.io/badge/Fine--Tuning_(SFT_%2B_DPO)-FF6B00?style=flat-square" />
 
@@ -64,28 +64,28 @@ My flagship creation, **🕷️ Spidey**, is a self-hostable AI agent with a liv
 <td width="33%" valign="top">
 
 ### 🕷️ Web-Shooters
-**Backend & Frameworks**
+**Backend &amp; Frameworks**
 `███████████░` 9/10 power
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&amp;logo=flask&amp;logoColor=white" />
 
 </td>
 <td width="33%" valign="top">
 
 ### 🛡️ The Suit
-**Infra, Data & Frontend**
+**Infra, Data &amp; Frontend**
 `███████████░` 9/10 power
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&amp;logo=redis&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&amp;logo=playwright&amp;logoColor=white" />
 
 </td>
 </tr>
@@ -127,7 +127,7 @@ My flagship creation, **🕷️ Spidey**, is a self-hostable AI agent with a liv
 <td width="50%" valign="top">
 
 ### ⚡ Cereforge <sub>· EARTH-3</sub>
-**AI Learning & Knowledge Platform**
+**AI Learning &amp; Knowledge Platform**
 - Adaptive learning platform powered by LLM-generated content pipelines.
 - Personalizes study paths from user progress and detected knowledge gaps.
 
@@ -154,7 +154,7 @@ My flagship creation, **🕷️ Spidey**, is a self-hostable AI agent with a liv
 </table>
 
 <details>
-<summary><b>🔍 More Earths — Media & Medical Pipelines</b></summary>
+<summary><b>🔍 More Earths — Media &amp; Medical Pipelines</b></summary>
 <br />
 
 **🎬 AI-Driven Video Production Pipeline** (2024)
@@ -182,7 +182,7 @@ End-to-end diagnostic pipeline at ~85% accuracy — cut per-case processing time
 - **Autonomous UI Execution** — explored Computer-Use Agent (CUA) architectures for GUI-based web interaction; contributed to a cascaded FastAPI pipeline with async job processing and persistent document storage.
 
 ### 🏢 Software Developer Intern
-**L&T Technology Services** — `Dec 2023 – Apr 2024`
+**L&amp;T Technology Services** — `Dec 2023 – Apr 2024`
 
 - **Performance Optimization** — refactored the React component layer and Flask APIs, cutting perceived load times by ~30% through bundle optimization and response caching.
 - **CI/CD Integration** — dockerized microservices and integrated them into a Linux-based CI/CD pipeline, reducing environment-specific regressions.
@@ -195,8 +195,8 @@ End-to-end diagnostic pipeline at ~85% accuracy — cut per-case processing time
 <div align="center"><sub>HOW THE HERO WAS MADE</sub></div>
 
 ```text
- 🕸️  Mar 2025 - Present   M.Sc. Digital Technologies @ Ostfalia & TU Clausthal (Germany)
-                          └─ GPA: 2.80 (German scale, 1.0 = best) | Focus: Distributed Systems & Agentic Implementations
+ 🕸️  Mar 2025 - Present   M.Sc. Digital Technologies @ Ostfalia &amp; TU Clausthal (Germany)
+                          └─ GPA: 2.80 (German scale, 1.0 = best) | Focus: Distributed Systems &amp; Agentic Implementations
 
  🕸️  Jul 2021 - May 2024  B.Tech. Computer Engineering @ CHARUSAT (India)
                           └─ CGPA: 7.6 / 10
@@ -211,6 +211,6 @@ End-to-end diagnostic pipeline at ~85% accuracy — cut per-case processing time
 
 *"It's not who I am underneath, but what I build that defines me."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A237E,100:B11313&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1A237E,100:B11313&amp;height=120&amp;section=footer" width="100%" />
 
 </div>
