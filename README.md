@@ -1,46 +1,216 @@
-<!-- HEADER HERO SECTION -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E62429,100:111111&height=220&section=header&text=Siddharth%20Patni&subtitle=🕸️%20Agentic%20AI%20%26%20Full-Stack%20Engineer&fontSize=42&subFontSize=20&fontColor=ffffff&subFontColor=f5f5f5&animation=twinkling" width="100%" />
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B11313,100:1A237E&height=220&section=header&text=Siddharth%20Patni&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Agentic%20AI%20%26%20Full-Stack%20Engineer%20%7C%20Your%20friendly%20neighbourhood%20developer&descSize=16&descAlignY=58&descColor=f5f5f5&animation=twinkling" width="100%" alt="Siddharth Patni" />
+
+# 🕷️ Siddharth Patni
+
+**Full-Stack Developer · Agentic AI Builder · Currently swinging through a Master's in Digital Technologies**
+
+> *"With great power comes great responsibility."*
+
+📍 Braunschweig, Germany · 📧 [patnisiddharth1311@gmail.com](mailto:patnisiddharth1311@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddharth-patni-644857185)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://siddharth-portfolio-pi.vercel.app)
+[![GitHub](https://img.shields.io/github/followers/Siddharthpatni?style=for-the-badge&logo=github&label=Follow&color=B11313)](https://github.com/Siddharthpatni)
+
+</div>
+
+---
 
 <p align="center">
-  📍 <b>Braunschweig, Germany</b> | 📧 <a href="mailto:patnisiddharth1311@gmail.com">patnisiddharth1311@gmail.com</a> 
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/siddharth-patni-644857185"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-  <a href="https://siddharth-portfolio-pi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a> 
-  <a href="https://github.com/Siddharthpatni"><img src="https://img.shields.io/github/followers/Siddharthpatni?style=for-the-badge&logo=github&label=Follow&color=E62429"/></a> 
+  🕸️ <b><a href="#-powers-awaken">Powers</a></b> ·
+  🌌 <b><a href="#-the-multiverse">Projects</a></b> ·
+  🥷 <b><a href="#-field-missions">Experience</a></b> ·
+  🎓 <b><a href="#-origin-timeline">Origin Story</a></b> ·
+  🎭 <b><a href="#-whos-behind-the-mask">About</a></b>
 </p>
 
 ---
 
-<!-- INTERACTIVE NAVIGATION BAR -->
-<p align="center">
-  🕵️ <b><a href="#-the-journey-so-far">The Journey</a></b> | 
-  🚀 <b><a href="#-engineering-vault-projects">Project Vault</a></b> | 
-  🛠️ <b><a href="#-skills-matrix">Skills Matrix</a></b> | 
-  🔬 <b><a href="#-research--industry-contributions">Research Ecosystem</a></b>
-</p>
+## 🎭 Who's Behind the Mask
+
+<div align="center"><sub>ISSUE #1 — THE ORIGIN</sub></div>
+
+I'm a full-stack developer and Master's student in Digital Technologies, on a mission to connect solid software engineering with where AI is actually headed. My focus is agentic AI and LLM pipelines — systems that don't just answer, but *act*. I work hands-on across Python, FastAPI, Docker, Playwright, and ML frameworks, with a growing arsenal of AI-first builds.
+
+My flagship creation, **🕷️ Spidey**, is a self-hostable AI agent with a live reasoning web — bring your own model (Claude · Gemini · GPT) or run it free and fully offline via Ollama. It visualizes every tool call in real time and ships its own SFT → DPO training pipeline to make small open models reliable at tool-calling.
 
 ---
 
-## 🕒 The Journey So Far
+## ⚡ Powers Awaken
 
-```mermaid
-flowchart TD
-    %% Style Configuration
-    classDef education fill:#111111,stroke:#E62429,stroke-width:2px,color:#ffffff;
-    classDef industry fill:#111111,stroke:#1A237E,stroke-width:2px,color:#ffffff;
-    classDef active fill:#1a1a1a,stroke:#E62429,stroke-dasharray: 5 5,stroke-width:3px,color:#ff4d4d;
+<div align="center"><sub>PHASE I — SKILL TREE UNLOCKED</sub></div>
 
-    A[2018 - 2021<br><b>Diploma in Computer Engineering</b><br>GTU · CGPA: 8.92/10] ::: education
-    B[2021 - 2024<br><b>B.Tech in Computer Engineering</b><br>CHARUSAT · CGPA: 7.6/10] ::: education
-    C[Dec 2023 - Apr 2024<br><b>Software Developer Intern</b><br>L&T Technology Services] ::: industry
-    D[2025 - Present<br><b>M.Sc. Artificial Intelligence & Digital Tech</b><br>TU Clausthal & Ostfalia University] ::: education
-    E[CURRENTLY WEAVING<br><b>🕸️ Project Spidey</b><br>Self-Hostable Agentic Brain] ::: active
+<table width="100%">
+<tr>
+<td width="34%" valign="top">
 
-    A --> B
-    B --> C
-    C --> D
-    D --> E
+### 🕸️ Spider-Sense
+**AI & Agentic Engineering**
+`████████████` full power
+
+<img src="https://img.shields.io/badge/Agentic_AI-Deep_Dive-B11313?style=flat-square" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Flow-FF0072?style=flat-square" />
+<img src="https://img.shields.io/badge/Fine--Tuning_(SFT_%2B_DPO)-FF6B00?style=flat-square" />
+
+</td>
+<td width="33%" valign="top">
+
+### 🕷️ Web-Shooters
+**Backend & Frameworks**
+`███████████░` 9/10 power
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+
+</td>
+<td width="33%" valign="top">
+
+### 🛡️ The Suit
+**Infra, Data & Frontend**
+`███████████░` 9/10 power
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌌 The Multiverse
+
+<div align="center"><sub>EVERY PROJECT ITS OWN EARTH — CLICK A CARD TO SWING IN</sub></div>
+
+<table width="100%">
+<tr>
+<td width="100%" colspan="2" valign="top">
+
+### 🕷️ Spidey <sub>· EARTH-1 · FLAGSHIP</sub>
+**Self-Hostable AI Agent with a Live Reasoning Web**
+
+- Autonomous agent that reads files, searches code, writes changes, and runs commands — while a live React Flow graph draws every thought and tool call as a node, in real time.
+- Bring your own model (Claude · Gemini · GPT) or run it free and fully offline on open-weight models via Ollama — keys never leave the browser.
+- "Hey Spidey" on-device voice, a two-stage SFT → DPO training pipeline, and a safety layer with command screening + path confinement.
+
+`Python` `FastAPI` `React` `React Flow` `Ollama` `PyTorch` `Unsloth/TRL` `Flutter`
+
+[**→ github.com/Siddharthpatni/Spidey**](https://github.com/Siddharthpatni/Spidey)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ Sentinel <sub>· EARTH-2</sub>
+**Open-Source LLM Observability Platform**
+- Drop-in proxy infrastructure for OpenAI and Anthropic models.
+- Comprehensive execution traces, evaluation layers, and smart routing.
+- EU AI Act–ready audit logs and automated real-time alerts.
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Cereforge <sub>· EARTH-3</sub>
+**AI Learning & Knowledge Platform**
+- Adaptive learning platform powered by LLM-generated content pipelines.
+- Personalizes study paths from user progress and detected knowledge gaps.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔄 Workflow Engine <sub>· EARTH-4</sub>
+**Visual No-Code Automation Builder**
+- Node-based visual workflow editor for multi-step automations.
+- Production-scale conditional branching and REST API integrations.
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 ShopMate-R <sub>· EARTH-5</sub>
+**AI-Powered Retail Assistant**
+- Natural-language product search for an AI shopping assistant.
+- LLM reasoning over structured product data, deployed to Pepper and Temi robots.
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🔍 More Earths — Media & Medical Pipelines</b></summary>
+<br />
+
+**🎬 AI-Driven Video Production Pipeline** (2024)
+`Python` `FastAPI` `OpenCV` `Hugging Face` `FFmpeg` `Redis`
+Automated captioning, media retrieval, and GPU-accelerated rendering — cut production turnaround from 6 hours to 20 minutes.
+
+**🩺 Multi-Disease Diagnostic Web App** (2023)
+`Python` `Flask` `OpenCV` `scikit-learn`
+End-to-end diagnostic pipeline at ~85% accuracy — cut per-case processing time from 30 minutes to 10 seconds.
+
+</details>
+
+---
+
+## 🥷 Field Missions
+
+<div align="center"><sub>WHERE THE TRAINING GOT TESTED</sub></div>
+
+### 🕸️ Agentic AI for Automated Web Data Extraction
+**CORE Research Group · Ostfalia / TU Clausthal** — `SoSe 2026`
+
+- **Scalable Extraction** — built and evaluated LLM-based scraper generation pipelines using Python, Playwright, and multi-model LLM APIs (OpenRouter).
+- **Self-Healing Loops** — implemented automated feedback loops with sandboxed code execution to verify script reliability.
+- **Benchmarking Infrastructure** — ran comparative benchmarks across LLM providers, analyzing cost, latency, and success-rate trade-offs to find optimal production models.
+- **Autonomous UI Execution** — explored Computer-Use Agent (CUA) architectures for GUI-based web interaction; contributed to a cascaded FastAPI pipeline with async job processing and persistent document storage.
+
+### 🏢 Software Developer Intern
+**L&T Technology Services** — `Dec 2023 – Apr 2024`
+
+- **Performance Optimization** — refactored the React component layer and Flask APIs, cutting perceived load times by ~30% through bundle optimization and response caching.
+- **CI/CD Integration** — dockerized microservices and integrated them into a Linux-based CI/CD pipeline, reducing environment-specific regressions.
+- **Architecture Quality** — standardized API-UI contracts and added input validation, cutting cross-team integration defects.
+
+---
+
+## 🎓 Origin Timeline
+
+<div align="center"><sub>HOW THE HERO WAS MADE</sub></div>
+
+```text
+ 🕸️  Mar 2025 - Present   M.Sc. Digital Technologies @ Ostfalia & TU Clausthal (Germany)
+                          └─ GPA: 2.80 (German scale, 1.0 = best) | Focus: Distributed Systems & Agentic Implementations
+
+ 🕸️  Jul 2021 - May 2024  B.Tech. Computer Engineering @ CHARUSAT (India)
+                          └─ CGPA: 7.6 / 10
+
+ 🕸️  Jun 2018 - Jun 2021  Diploma in Computer Engineering @ GTU (India)
+                          └─ CGPA: 8.92 / 10
+```
+
+---
+
+<div align="center">
+
+*"It's not who I am underneath, but what I build that defines me."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A237E,100:B11313&height=120&section=footer" width="100%" />
+
+</div>
