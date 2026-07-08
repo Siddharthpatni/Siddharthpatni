@@ -55,6 +55,23 @@
   * **Architecture Quality:** Standardized API-UI contracts and added input validation, reducing cross-team integration defects .
 </details>
 
+<details>
+  <summary><b>🕷️ Flagship: Spidey — Self-Hostable AI Agent</b></summary>
+  <br />
+
+  > *"With great power comes great responsibility."*
+
+  **[Spidey](https://github.com/Siddharthpatni/Spidey)** is an autonomous AI agent that lives on your machine: give it a task and it reads files, searches code, writes changes, and runs commands — while a live graph in your browser draws every thought and tool call as a node, in real time.
+
+  * **🕷️ Graphical brain:** a chat + live agent-graph UI (React Flow over FastAPI WebSockets) streams every step as an animated node, including the safety layer's Approve / Deny prompt.
+  * **🎙️ "Hey Spidey" — offline voice:** on-device wake word + speech-to-text (Vosk) and local TTS — no audio ever leaves the machine.
+  * **🧠 Bring your own model:** free & fully offline via Ollama, or your own Claude · Gemini · GPT key — keys stay in the browser.
+  * **🎯 Trainable brain:** a two-stage SFT → DPO pipeline teaches a small open model reliable tool-calling, with an eval harness to prove the gain.
+  * **🛡️ Safety layer:** command screening + path confinement live outside the model, so a confused or prompt-injected model can't escape the working directory.
+
+  <sub>Python · FastAPI · React · React Flow · Ollama · PyTorch · Unsloth/TRL · Flutter</sub>
+</details>
+
 ---
 
 ## 🚀 Featured Projects Grid
