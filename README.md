@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:B11313,100:1A237E&amp;height=220&amp;section=header&amp;text=Siddharth%20Patni&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=36&amp;desc=Agentic%20AI%20%26%20Full-Stack%20Engineer%20%7C%20Your%20friendly%20neighbourhood%20developer&amp;descSize=16&amp;descAlignY=58&amp;descColor=f5f5f5&amp;animation=twinkling" width="100%" alt="Siddharth Patni" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:B11313,100:1A237E&amp;height=220&amp;section=header&amp;text=Siddharth%20Patni&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=36&amp;desc=Agentic%20AI%20and%20Full-Stack%20Engineer%20-%20Your%20friendly%20neighbourhood%20developer&amp;descSize=16&amp;descAlignY=58&amp;descColor=f5f5f5&amp;animation=twinkling" width="100%" alt="Siddharth Patni" />
 
 # 🕷️ Siddharth Patni
 
