@@ -4,7 +4,7 @@
 
 # 🕷️ Siddharth Patni (Peter Parker of AI)
 
-**Full-Stack Developer · Agentic AI Builder · Dedeploying Stark-Tech Systems**
+**Full-Stack Developer · Agentic AI Builder · De-deploying Stark-Tech Systems**
 
 > *"With great power comes great responsibility."*
 
@@ -30,158 +30,138 @@
 
 ## 🎭 The Masked Identity
 
-<div align="center"><sub>ISSUE #1 — THE ORIGIN</sub></div>
-
-By day, I am a Master's student in Digital Technologies, connecting solid software engineering with where AI is actually headed. My focus is agentic AI and LLM pipelines — building systems that don't just answer questions, but *act*. By night, I build visual workflow orchestrators, SFT/DPO fine-tuning loops, and multi-robot grocery assistants.
-
-### 🛠️ Lab Diagnostic Terminal
-```text
-[SYSTEM_ONLINE: 200]
-ROBOTICS_CORE: ACTIVE
-WEBSHOOTER_FLUID_DENSITY: 98%
-NEURAL_BRIDGE_CAPACITY: 94%
-SYS_STATUS: "With great power comes great responsibility"
-```
-
-My flagship projects include:
-- **Vergabepilot.AI** — An autonomous document harvester utilizing a 7-stage cascade pipeline (Playwright templates, visual Computer Use Agents, and self-learning routes) built for CORE Research Group / Ciconia Systems GmbH.
-- **Spidey** — A local laboratory assistant agent featuring a live **React Flow** reasoning canvas, SFT/DPO fine-tuning pipelines, and offline Vosk voice capability.
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <p>I'm a full-stack developer and Master's student in Digital Technologies, on a mission to connect solid software engineering with where AI is actually headed. My focus is agentic AI and LLM pipelines — systems that don't just answer, but <b>act</b>. I work hands-on across Python, FastAPI, TypeScript, Docker, Playwright, and Celery, with a growing arsenal of AI-first builds.</p>
+      <p>My flagship creations include <b>Vergabepilot.AI</b> (a multi-strategy cascade document extraction system built for CORE Research Group) and <b>Spidey</b> (a self-hostable autonomous AI agent platform featuring a live React Flow reasoning canvas and offline Vosk voice capability).</p>
+    </td>
+    <td width="35%" valign="top">
+      <table width="100%">
+        <tr>
+          <th align="center" style="background-color: #B11313; color: white;">🕷️ SUIT DIAGNOSTICS</th>
+        </tr>
+        <tr>
+          <td>
+            <code>[SYSTEM_ONLINE: 200]</code><br/>
+            <code>ROBOTICS_CORE: ACTIVE</code><br/>
+            <code>WEBSHOOTER: 98%</code><br/>
+            <code>NEURAL_BRIDGE: 94%</code><br/>
+            <code>THREAT_LEVEL: LOW</code>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## ⚡ Web-Shooters & Suit Upgrades
 
-<div align="center"><sub>PHASE I — SKILL TREE UNLOCKED</sub></div>
-
 <table width="100%">
-<tr>
-<td width="34%" valign="top">
-
-### 🕸️ Spider-Sense
-**AI &amp; Agentic Engineering**
-`████████████` full power
-
-<img src="https://img.shields.io/badge/Agentic_AI-Deep_Dive-B11313?style=flat-square" />
-<img src="https://img.shields.io/badge/browser--use_(CUA)-00f3ff?style=flat-square" />
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&amp;logo=playwright&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/OpenRouter_/_Gemini-412991?style=flat-square" />
-<img src="https://img.shields.io/badge/Fine--Tuning_(SFT_%2B_DPO)-FF6B00?style=flat-square" />
-<img src="https://img.shields.io/badge/React_Flow-FF0072?style=flat-square" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&amp;logo=opencv&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&amp;logo=ollama&amp;logoColor=white" />
-
-</td>
-<td width="33%" valign="top">
-
-### 🕷️ Web-Shooters
-**Backend &amp; Frameworks**
-`███████████░` 9/10 power
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&amp;logo=flask&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square" />
-
-</td>
-<td width="33%" valign="top">
-
-### 🛡️ The Stark Suit
-**Infra, Data &amp; Frontend**
-`███████████░` 9/10 power
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/Celery_/_Bull-FF6B00?style=flat-square" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&amp;logo=redis&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/MinIO_/_S3-00a3e0?style=flat-square" />
-<img src="https://img.shields.io/badge/Next.js_/_React-000000?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/Prometheus-e6522c?style=flat-square&amp;logo=prometheus&amp;logoColor=white" />
-
-</td>
-</tr>
+  <tr>
+    <th width="33%" align="center" style="background-color: #B11313; color: white;">🕸️ Spider-Sense (AI & Agentic)</th>
+    <th width="33%" align="center" style="background-color: #1A237E; color: white;">🕷️ Web-Shooters (Backend)</th>
+    <th width="33%" align="center" style="background-color: #333333; color: white;">🛡️ The Stark Suit (Infra & UI)</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <ul>
+        <li><code>Agentic AI & CUA</code></li>
+        <li><code>browser-use & Playwright</code></li>
+        <li><code>OpenRouter / Gemini</code></li>
+        <li><code>Fine-Tuning (SFT + DPO)</code></li>
+        <li><code>React Flow Integration</code></li>
+        <li><code>PyTorch & OpenCV</code></li>
+        <li><code>Ollama (Local LLM)</code></li>
+      </ul>
+    </td>
+    <td valign="top">
+      <ul>
+        <li><code>Python & FastAPI</code></li>
+        <li><code>Node.js & Express</code></li>
+        <li><code>TypeScript & JS</code></li>
+        <li><code>Flask API</code></li>
+        <li><code>PostgreSQL & SQLite</code></li>
+      </ul>
+    </td>
+    <td valign="top">
+      <ul>
+        <li><code>Docker & Compose</code></li>
+        <li><code>Celery & Bull Queues</code></li>
+        <li><code>Redis Caching</code></li>
+        <li><code>MinIO / S3 Storage</code></li>
+        <li><code>Next.js & React</code></li>
+        <li><code>Prometheus Monitoring</code></li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 ---
 
 ## 🌌 The Spidey Multiverse
 
-<div align="center"><sub>EVERY PROJECT ITS OWN EARTH — CLICK A CARD TO SWING IN</sub></div>
-
 <table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### ⚡ Vergabepilot.AI <sub>· EARTH-0 · FLAGSHIP (PRIVATE)</sub>
-**Autonomous Public Procurement Cascade Agent**
-- Multi-strategy cascade scraper (Cached → Heuristics → LLM Code Gen → Learned Route → visual CUA Agents) built to scrape thousands of portals across every continent.
-- Features **self-learning route tracking** that records visual CUA runs and distills them into JSON replay routes, saving over 95% of API costs on repeat visits.
-- Designed for production reliability: Redis circuit breakers, domain rate limiters, and deep 32-field German text extraction.
-- Developed for **CORE Research Group / Ciconia Systems GmbH**.
-
-</td>
-<td width="50%" valign="top">
-
-### 🕷️ Spidey <sub>· EARTH-1 · FLAGSHIP</sub>
-**Autonomous AI Agent with a Live Reasoning Web**
-- Workspace agent utilizing a live **React Flow** reasoning canvas to draw execution thoughts and tool calls in real time.
-- Operates completely offline using Vosk speech-to-text / text-to-speech and local Ollama model layers to guarantee data privacy.
-- Custom SFT & DPO training pipeline built with Unsloth and TRL to optimize open-weight models for structured tool-calling.
-
-[**→ github.com/Siddharthpatni/Spidey**](https://github.com/Siddharthpatni/Spidey)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ Sentinel <sub>· EARTH-2</sub>
-**Open-Source LLM Observability & Proxy Platform**
-- Drop-in observability proxy for OpenAI/Anthropic SDKs with Cost Rollups and Gantt-style span tree rendering.
-- Encrypted Fernet key storage and verifiable SHA-256 chained audit ledger compliant with the EU AI Act.
-
-[**→ github.com/Siddharthpatni/Sentinel**](https://github.com/Siddharthpatni/Sentinel)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 Cereforge <sub>· EARTH-3</sub>
-**AI & MLOps Engineering Platform**
-- Competitive AI engineering learning platform featuring 24 design challenges across LLM, RAG, Vision, and Agent tracks.
-- Gemini-powered evaluation service grading submissions and adjusting mentorship hints dynamically.
-
-[**→ github.com/Siddharthpatni/Cereforge**](https://github.com/Siddharthpatni/Cereforge)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔄 Workflow Engine <sub>· EARTH-4</sub>
-**Visual Distributed Automation Orchestrator**
-- Drag-and-drop React Flow canvas for executing multi-step pipelines.
-- Distributed worker architecture backed by Bull queue and Redis, executing Javascript (Node VM) and Python (isolated Docker containers).
-
-[**→ github.com/Siddharthpatni/Workflow_Engine**](https://github.com/Siddharthpatni/Workflow_Engine)
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 ShopMate-R <sub>· EARTH-5</sub>
-**Multi-Robot Shopping Assistant**
-- Retail assistant coordination system integrating Pepper (speech + gestures + tablet UI) and Temi (multi-stop navigation and tray delivery).
-- Integrated Flask dashboard monitoring simulated M5Stack weight sensors.
-
-[**→ github.com/Siddharthpatni/ShopMate-R**](https://github.com/Siddharthpatni/ShopMate-R)
-
-</td>
-</tr>
+  <tr>
+    <td width="100%" colspan="2" style="background-color: #0b0e14; border: 1px solid #B11313; padding: 15px;">
+      <h3 style="color: #B11313; margin-top: 0;">⚡ Vergabepilot.AI (EARTH-0 · FLAGSHIP · PRIVATE)</h3>
+      <p><b>Autonomous Public Procurement Cascade Agent</b></p>
+      <ul>
+        <li>Multi-strategy cascade scraper (Cached → Heuristics → LLM Code Gen → Learned Route → visual CUA Agents) built to scrape thousands of portals across every continent.</li>
+        <li>Features <b>self-learning route tracking</b> that records visual CUA runs and distills them into JSON replay routes, saving over 95% of API costs on repeat visits.</li>
+        <li>Designed for production reliability: Redis circuit breakers, domain rate limiters, and deep 32-field German text extraction.</li>
+        <li>Developed for <i>CORE Research Group / Ciconia Systems GmbH</i>.</li>
+      </ul>
+      <p><code>Python 3.11</code> <code>FastAPI</code> <code>Next.js 14</code> <code>TypeScript</code> <code>Celery</code> <code>Redis</code> <code>MinIO</code> <code>Playwright</code> <code>browser-use</code> <code>Gemini</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="border: 1px solid #1A237E; padding: 15px;">
+      <h3 style="color: #1A237E; margin-top: 0;">🕷️ Spidey (EARTH-1 · FLAGSHIP)</h3>
+      <p><b>Autonomous AI Agent with a Live Reasoning Web</b></p>
+      <ul>
+        <li>Workspace agent utilizing a live <b>React Flow</b> reasoning canvas to draw execution thoughts and tool calls in real time.</li>
+        <li>Operates completely offline using Vosk speech-to-text / text-to-speech and local Ollama model layers to guarantee data privacy.</li>
+        <li>Custom SFT & DPO training pipeline built with Unsloth and TRL to optimize open-weight models for structured tool-calling.</li>
+      </ul>
+      <p><a href="https://github.com/Siddharthpatni/Spidey"><b>→ View Project Earth-1</b></a></p>
+    </td>
+    <td width="50%" valign="top" style="border: 1px solid #333333; padding: 15px;">
+      <h3 style="color: #333333; margin-top: 0;">🛡️ Sentinel (EARTH-2)</h3>
+      <p><b>LLM Observability & Proxy Platform</b></p>
+      <ul>
+        <li>Drop-in observability proxy for OpenAI/Anthropic SDKs with Cost Rollups and Gantt-style span tree rendering.</li>
+        <li>Encrypted Fernet key storage and verifiable SHA-256 chained audit ledger compliant with the EU AI Act.</li>
+      </ul>
+      <p><a href="https://github.com/Siddharthpatni/Sentinel"><b>→ View Project Earth-2</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="border: 1px solid #333333; padding: 15px;">
+      <h3 style="color: #333333; margin-top: 0;">🧠 Cereforge (EARTH-3)</h3>
+      <p><b>AI & MLOps Engineering Platform</b></p>
+      <ul>
+        <li>Competitive AI engineering learning platform featuring 24 design challenges across LLM, RAG, Vision, and Agent tracks.</li>
+        <li>Gemini-powered evaluation service grading submissions and adjusting mentorship hints dynamically.</li>
+      </ul>
+      <p><a href="https://github.com/Siddharthpatni/Cereforge"><b>→ View Project Earth-3</b></a></p>
+    </td>
+    <td width="50%" valign="top" style="border: 1px solid #333333; padding: 15px;">
+      <h3 style="color: #333333; margin-top: 0;">🔄 Workflow Engine (EARTH-4)</h3>
+      <p><b>Visual Distributed Automation Orchestrator</b></p>
+      <ul>
+        <li>Drag-and-drop React Flow canvas for executing multi-step pipelines.</li>
+        <li>Distributed worker architecture backed by Bull queue and Redis, executing Javascript (Node VM) and Python (isolated Docker containers).</li>
+      </ul>
+      <p><a href="https://github.com/Siddharthpatni/Workflow_Engine"><b>→ View Project Earth-4</b></a></p>
+    </td>
+  </tr>
 </table>
 
 <details>
-<summary><b>🔍 More Earths — CV &amp; SaaS Frameworks</b></summary>
+<summary><b>🔍 View More Visual & Embedded Pipelines</b></summary>
 <br />
 
 🚗 **AI Driver Safety ADAS System** (Earth-6)  
@@ -198,48 +178,43 @@ End-to-end diagnostic pipeline achieving ~85% classification accuracy across maj
 Micro-merchants inventory system with QR code scanners, session rate-limiting, and comprehensive CSV investor models.  
 [**→ github.com/Siddharthpatni/Digital_Inventory**](https://github.com/Siddharthpatni/Digital_Inventory)
 
-🤖 **LLM Chatbot (DialoGPT)** (Earth-9)  
-`Python` `Flask` `PyTorch` `HuggingFace` `Docker`  
-Self-hosted DialoGPT conversational interface optimized for Apple Silicon GPU acceleration (Metal Performance Shaders).  
-[**→ github.com/Siddharthpatni/LLM_chatbot**](https://github.com/Siddharthpatni/LLM_chatbot)
-
 </details>
 
 ---
 
 ## 🥷 Field Missions & Patrols
 
-<div align="center"><sub>WHERE THE TRAINING GOT TESTED</sub></div>
-
-### 🕸️ AI Software Engineer (Research & Dev)
-**CORE Research Group · Ciconia Systems GmbH** — `SoSe 2026`
-
-- **Vergabepilot.AI Platform** — Built and scaled LLM-based autonomous document harvesting systems targeting 30+ portal families globally.
-- **Agentic Orchestration** — Authored a 7-stage cascade pipeline tried cheapest-first, combining Playwright templates, self-healing LLM generator feedback loops, and visual Computer Use Agents (browser-use).
-- **Production Scaling** — Structured async job processors fanning out chunk tasks over Celery, Redis, and asyncio to process up to 10,000 URLs concurrently without failures.
-- **Metric Infrastructure** — Integrated Prometheus exporters monitoring task latency, rate-limiting locks, and model token costs.
-
-### 🏢 Software Developer Intern
-**L&amp;T Technology Services** — `Dec 2023 – Apr 2024`
-
-- **Performance Optimization** — Refactored React context structures and Flask endpoints, reducing page render times by 30% via lazy-loading and response caches.
-- **CI/CD Integration** — Containerized microservices and integrated unit testing runs into a Linux-based Git pipeline, reducing integration regressions.
-
-### 📊 Data Analyst Intern
-**Snapfix Ltd.** — `Jun 2023 – Jul 2023`
-
-- **Data Analytics** — Analyzed property maintenance logs and spatial data arrays to support core product performance reviews.
-- **Workflow Optimization** — Generated SQL queries and automated reports to isolate task workflow delays and bottlenecks.
+<table width="100%">
+  <tr>
+    <td style="border-left: 3px solid #B11313; padding-left: 15px;">
+      <h4>🕸️ AI Software Engineer (Research & Dev) · CORE Research Group · Ciconia Systems GmbH</h4>
+      <p><b>SoSe 2026 (Ongoing)</b></p>
+      <ul>
+        <li>Built and scaled LLM-based autonomous document harvesting systems targeting 30+ portal families globally.</li>
+        <li>Authored a 7-stage cascade pipeline tried cheapest-first, combining Playwright templates, self-healing LLM generator feedback loops, and visual Computer Use Agents (browser-use).</li>
+        <li>Structured async job processors fanning out chunk tasks over Celery, Redis, and asyncio to process up to 10,000 URLs concurrently.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td style="border-left: 3px solid #1A237E; padding-left: 15px; margin-top: 15px;">
+      <h4>🏢 Software Developer Intern · L&T Technology Services</h4>
+      <p><b>Dec 2023 – Apr 2024</b></p>
+      <ul>
+        <li>Refactored React context structures and Flask endpoints, reducing page render times by 30% via lazy-loading and response caches.</li>
+        <li>Containerized microservices and integrated unit testing runs into a Linux-based Git pipeline.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🎓 Oscorp Academy & Timeline
 
-<div align="center"><sub>HOW THE HERO WAS MADE</sub></div>
-
 ```text
- 🕸️  Mar 2025 - Present   M.Sc. Digital Technologies @ Ostfalia &amp; TU Clausthal (Germany)
-                          └─ GPA: 2.80 (German scale, 1.0 = best) | Focus: Distributed Systems &amp; Agentic Implementations
+ 🕸️  Mar 2025 - Present   M.Sc. Digital Technologies @ Ostfalia & TU Clausthal (Germany)
+                          └─ GPA: 2.80 (German scale) | Focus: Distributed Systems & Agentic AI
 
  🕸️  Jul 2021 - May 2024  B.Tech. Computer Engineering @ CHARUSAT (India)
                           └─ CGPA: 7.6 / 10
