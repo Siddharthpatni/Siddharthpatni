@@ -1,168 +1,141 @@
-<div align="center">
+# Siddharth Patni
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e23636,50:B11313,100:1A237E&height=220&section=header&text=SIDDHARTH_PATNI&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=//%20AGENTIC%20AI%20//%20AUTONOMOUS%20SYSTEMS%20//%20SPIDEY_LABS%20v2.0&descSize=14&descAlignY=58&descColor=00f3ff&animation=twinkling" width="100%" alt="Siddharth Patni" />
+**AI & Autonomous Systems Engineer** · Agentic AI · Computer Vision · Robotics & IoT
 
-# 🕷️ SPIDEY_LABS // STARK_TECH INTERFACE
+Braunschweig, Germany · [patnisiddharth1311@gmail.com](mailto:patnisiddharth1311@gmail.com)
 
-**`> DEVELOPING: AUTONOMOUS AGENTIC AI · VISUAL BROWSER AUTOMATION · ROBOTICS & IoT NETWORKS`**
-
-> *"With great power comes great responsibility."*
-
-📍 Braunschweig, Germany · 📧 [patnisiddharth1311@gmail.com](mailto:patnisiddharth1311@gmail.com)
-
-[![Portfolio](https://img.shields.io/badge/LIVE_INTERFACE-e23636?style=for-the-badge&logo=vercel&logoColor=white)](https://siddharth-portfolio-pi.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-divyang-patni-644857185)
-[![GitHub](https://img.shields.io/github/followers/Siddharthpatni?style=for-the-badge&logo=github&label=FOLLOW&color=07090e)](https://github.com/Siddharthpatni)
-
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://siddharth-portfolio-pi.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-divyang-patni-644857185)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Siddharthpatni)
 
 ---
 
-```text
-┌─[ LAB_DIAGNOSTICS_v2.0 ]────────────────────────────● SECURE─┐
-│                                                              │
-│   // USER_ALIAS:        Peter Parker of AI                   │
-│   // GEO_COORDS:        Braunschweig, Germany                │
-│   // LANG_PROTOCOLS:    English C1 · German A2–B1            │
-│   // MISSION:           Systems that don't just answer —     │
-│                         they act.                            │
-│                                                              │
-│   NEURAL_FLOW_DENSITY   ██████████████████░░  94%            │
-│   SUIT_ENERGY_RESERVE   ████████████████████ 100%            │
-│                                                              │
-│   [●] AGENT_CORE : ACTIVE   [●] CASCADE_PIPELINE : STANDBY   │
-└──────────────────────────────────────────────────────────────┘
-```
+## About
+
+I build production-grade LLM infrastructure, computer vision pipelines, and robotics integrations. My focus is on systems that act rather than only respond: agentic web automation with self-learning fallback cascades, LLM observability tooling, multi-robot orchestration, and visual workflow engines.
+
+Currently pursuing an M.Sc. in Digital Technologies at TU Clausthal and Ostfalia University, Germany, alongside AI research and development work at Ciconia Systems GmbH.
+
+**Working languages:** English (C1), German (A2–B1)
 
 ---
 
-## `// SEC_01 — LABORATORY_SPECS` 🧬
+## Experience
 
-AI & Autonomous Systems Engineer specializing in **production-grade LLM infrastructure**, computer vision pipelines, and robotics integration — currently pursuing an M.Sc. in Digital Technologies at **TU Clausthal & Ostfalia University**, Germany.
-
-I build end-to-end intelligent systems: agentic web scrapers with self-learning cascades, LLM observability platforms, multi-robot orchestrators, and visual workflow engines. Python-based ML backends, React/Next.js frontends, containerized deployments, CI/CD automation.
-
-| 📊 Projects | ⚙️ Technologies | ☁️ Cloud Platforms | 🕐 Experience |
-|:-----------:|:---------------:|:------------------:|:-------------:|
-| **10+**     | **15+**         | **3**              | **1+ years**  |
-
----
-
-## `// SEC_02 — RESEARCH_LOGS` 🥷
-
-| Mission | Post | Timeline |
-|---------|------|----------|
-| **Ciconia Systems GmbH · CORE Research Group** | AI Software Engineer (R&D) — built **Vergabepilot.AI** | SoSe 2026 · Ongoing |
-| **Stark-Tech & Spidey Labs** | Open Source AI & Systems Creator — Spidey, Sentinel, Cereforge, Workflow Engine | 2025 – Present |
-| **Academic Labs & IoT Prototyping** | Robotics & Embedded Systems — ShopMate-R, AI Driver Safety | 2024 – 2025 |
-| **L&T Technology Services** | Software Developer Intern — React/Flask, Docker CI/CD, ~30% latency cuts | Dec 2023 – Apr 2024 |
-| **Snapfix Ltd.** | Data Analyst Intern — SQL automation & workflow audits | Jun 2023 – Jul 2023 |
+| Role | Organisation | Focus | Period |
+| --- | --- | --- | --- |
+| AI Software Engineer (R&D) | Ciconia Systems GmbH, CORE Research Group | Vergabepilot.AI, autonomous procurement document extraction | 2026 – Present |
+| Open Source Developer | Independent | Spidey, Sentinel, Cereforge, Workflow Engine | 2025 – Present |
+| Research Assistant | Academic Labs, IoT Prototyping | Robotics and embedded systems (ShopMate-R, AI Driver Safety) | 2024 – 2025 |
+| Software Developer Intern | L&T Technology Services | React and Flask services, Docker CI/CD, ~30% latency reduction | Dec 2023 – Apr 2024 |
+| Data Analyst Intern | Snapfix Ltd. | SQL automation and workflow auditing | Jun 2023 – Jul 2023 |
 
 ---
 
-## `// SEC_03 — TACTICAL_PROJECTS` 🕸️
+## Selected Projects
 
-### ⭐ FLAGSHIP_NODES
+### Vergabepilot.AI
 
-#### 🏛️ Vergabepilot.AI — `PRIVATE_RESEARCH · CORE Research Group / Ciconia Systems`
+*Private research project, CORE Research Group / Ciconia Systems*
 
-Autonomous agentic AI for public-procurement document extraction across **30+ portal families** globally. 7-strategy cascade (Cached → Deterministic → Adaptive → LLM CodeGen → Learned Route → CUA → Manual), self-learning replayable routes, Redis circuit breakers, **262 tests**, 32-field deep extraction.
+Autonomous agentic system for extracting structured data from public procurement portals across 30+ portal families. Uses a seven-stage fallback cascade (cached, deterministic, adaptive, LLM code generation, learned route, computer-use agent, manual) with replayable self-learned routes, Redis-backed circuit breakers, 32-field deep extraction, and a suite of 262 tests.
 
-`Python` `FastAPI` `Celery` `Redis` `PostgreSQL` `MinIO` `Playwright` `browser-use` `Docker`
+`Python` · `FastAPI` · `Celery` · `Redis` · `PostgreSQL` · `MinIO` · `Playwright` · `browser-use` · `Docker`
 
-#### 🕷️ [Spidey](https://github.com/Siddharthpatni/Spidey) — `SELF-HOSTED_AGENT`
+### [Spidey](https://github.com/Siddharthpatni/Spidey)
 
-Autonomous AI agent platform with a **live React Flow reasoning graph**, offline Vosk voice, local Ollama execution, and a two-stage **SFT → DPO** fine-tuning pipeline across 17 modules. Runs fully offline.
+Self-hosted autonomous agent platform with a live React Flow reasoning graph, offline speech recognition via Vosk, local model execution through Ollama, and a two-stage SFT to DPO fine-tuning pipeline spanning 17 modules. Runs entirely offline.
 
-`Python` `FastAPI` `React` `React Flow` `Vosk` `Ollama` `Unsloth` `TRL`
+`Python` · `FastAPI` · `React` · `React Flow` · `Vosk` · `Ollama` · `Unsloth` · `TRL`
 
-### ✨ FEATURED_NODES
+### [Sentinel](https://github.com/Siddharthpatni/Sentinel)
 
-| Node | Intel | Stack |
-|------|-------|-------|
-| **[Sentinel](https://github.com/Siddharthpatni/Sentinel)** | LLM observability proxy — span-tree waterfalls, judge-model evals, SHA-256 chained EU AI Act audit ledger | FastAPI · Celery · Next.js |
-| **[Cereforge](https://github.com/Siddharthpatni/Cereforge)** | Competitive AI engineering platform — 24 curated tasks, Gemini evaluator, XP + leaderboard | FastAPI · React · PostgreSQL |
-| **[Workflow Engine](https://github.com/Siddharthpatni/Workflow_Engine)** | Distributed low-code automation (n8n alternative) — Bull workers, sandboxed Node VM + Python Docker runtimes | Node.js · React Flow · Redis |
-| **[ShopMate-R](https://github.com/Siddharthpatni/ShopMate-R)** | Multi-robot grocery assistant — Pepper dialog + Temi navigation + M5Stack IoT shelf sensors | Python · Flask · Robotics |
+LLM observability proxy featuring span-tree request waterfalls, judge-model evaluations, and a SHA-256 hash-chained audit ledger designed against EU AI Act record-keeping requirements.
 
-### 📦 STANDARD_NODES
+`FastAPI` · `Celery` · `Next.js`
 
-| Node | Intel |
-|------|-------|
-| **[AI Driver Safety](https://github.com/Siddharthpatni/ai-driver-safety)** | ADAS — CNN traffic signs, YOLOv4 pedestrians, dlib drowsiness, Arduino/OBD-II braking |
-| **[Digital Inventory](https://github.com/Siddharthpatni/Digital_Inventory)** | Retail SaaS — QR lookup, audit logs, hardened security, investor pitch assets |
-| **[LLM Chatbot](https://github.com/Siddharthpatni/LLM_chatbot)** | Self-hosted DialoGPT on Apple Silicon MPS, Dockerized |
-| **[SmartBot](https://github.com/Siddharthpatni/Chatbot)** | Offline-first FAQ assistant — Flask + React, zero API cost |
-| **Multi-Disease Diagnostic** | Medical image classification pipeline — ~85% accuracy, 30 min → 10 s per case |
+### [Cereforge](https://github.com/Siddharthpatni/Cereforge)
 
----
+Competitive AI engineering platform with 24 curated tasks, automated evaluation via Gemini, and an XP and leaderboard progression system.
 
-## `// SEC_04 — SUIT_DIAGNOSTICS` ⚡
+`FastAPI` · `React` · `PostgreSQL`
 
-![Python](https://img.shields.io/badge/PYTHON-07090e?style=for-the-badge&logo=python&logoColor=00f3ff)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-07090e?style=for-the-badge&logo=typescript&logoColor=00f3ff)
-![FastAPI](https://img.shields.io/badge/FASTAPI-07090e?style=for-the-badge&logo=fastapi&logoColor=e23636)
-![Next.js](https://img.shields.io/badge/NEXT.JS-07090e?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/REACT-07090e?style=for-the-badge&logo=react&logoColor=00f3ff)
-![PyTorch](https://img.shields.io/badge/PYTORCH-07090e?style=for-the-badge&logo=pytorch&logoColor=e23636)
-![TensorFlow](https://img.shields.io/badge/TENSORFLOW-07090e?style=for-the-badge&logo=tensorflow&logoColor=e23636)
-![Playwright](https://img.shields.io/badge/PLAYWRIGHT-07090e?style=for-the-badge&logo=playwright&logoColor=00f3ff)
-![Docker](https://img.shields.io/badge/DOCKER-07090e?style=for-the-badge&logo=docker&logoColor=00f3ff)
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-07090e?style=for-the-badge&logo=postgresql&logoColor=00f3ff)
-![Redis](https://img.shields.io/badge/REDIS-07090e?style=for-the-badge&logo=redis&logoColor=e23636)
-![Celery](https://img.shields.io/badge/CELERY-07090e?style=for-the-badge&logo=celery&logoColor=00f3ff)
-![Prometheus](https://img.shields.io/badge/PROMETHEUS-07090e?style=for-the-badge&logo=prometheus&logoColor=e23636)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-07090e?style=for-the-badge&logo=githubactions&logoColor=00f3ff)
+### [Workflow Engine](https://github.com/Siddharthpatni/Workflow_Engine)
 
-- **Agentic AI:** browser-use (CUA) · Playwright automation · cascade orchestration · self-healing scrapers · SFT/DPO fine-tuning
-- **Robotics & IoT:** Pepper · Temi · Arduino · OBD-II · M5Stack
+Distributed low-code automation platform in the spirit of n8n, built on Bull workers with sandboxed Node VM and containerised Python runtimes.
+
+`Node.js` · `React Flow` · `Redis`
+
+### [ShopMate-R](https://github.com/Siddharthpatni/ShopMate-R)
+
+Multi-robot grocery assistant combining Pepper for dialogue, Temi for autonomous navigation, and M5Stack IoT shelf sensors for inventory awareness.
+
+`Python` · `Flask` · `Robotics`
 
 ---
 
-## `// SEC_05 — ACADEMIC_RECORDS` 🎓
+## Additional Projects
 
-| Node | Institution | Timeline |
-|------|-------------|----------|
-| **M.Sc. Digital Technologies** | TU Clausthal & Ostfalia University, Germany | Mar 2025 – Present |
-| **B.Tech Computer Engineering** | CHARUSAT, India — CGPA 7.6/10 | 2021 – 2024 |
-| **Diploma Computer Engineering** | GTU, India — CGPA 8.92/10 · High Distinction | 2018 – 2021 |
-
----
-
-## `// SEC_06 — SEND_TRANSMISSION` 📡
-
-```bash
-$ establish_conduit --target siddharth
-> EMAIL:    patnisiddharth1311@gmail.com
-> LINKEDIN: linkedin.com/in/siddharth-divyang-patni-644857185
-> GITHUB:   github.com/Siddharthpatni
-> STATUS:   ● CONDUIT_PORTS_LISTENING — response < 24h
-```
+| Project | Description |
+| --- | --- |
+| [AI Driver Safety](https://github.com/Siddharthpatni/ai-driver-safety) | ADAS prototype: CNN traffic sign recognition, YOLOv4 pedestrian detection, dlib drowsiness monitoring, Arduino and OBD-II braking interface |
+| [Digital Inventory](https://github.com/Siddharthpatni/Digital_Inventory) | Retail SaaS with QR-based lookup, audit logging, hardened access control, and investor pitch materials |
+| [LLM Chatbot](https://github.com/Siddharthpatni/LLM_chatbot) | Self-hosted DialoGPT deployment optimised for Apple Silicon (MPS), containerised with Docker |
+| [SmartBot](https://github.com/Siddharthpatni/Chatbot) | Offline-first FAQ assistant built with Flask and React, requiring no external API calls |
+| Multi-Disease Diagnostic | Medical image classification pipeline reaching approximately 85% accuracy and reducing per-case review from 30 minutes to 10 seconds |
 
 ---
 
-## `// ABOUT_THIS_REPO` 🛠️
+## Technical Skills
 
-This portfolio is a single-page **Next.js 15** app (App Router) in **TypeScript** with **Tailwind CSS v4**, deployed on **Vercel** → [siddharth-portfolio-pi.vercel.app](https://siddharth-portfolio-pi.vercel.app)
+**Languages:** Python, TypeScript, JavaScript, SQL
+
+**AI & Machine Learning:** PyTorch, TensorFlow, Unsloth, TRL, SFT and DPO fine-tuning, Ollama, computer vision (CNN, YOLO, dlib)
+
+**Agentic Systems:** browser-use (computer-use agents), Playwright automation, cascade orchestration, self-healing scrapers
+
+**Backend:** FastAPI, Flask, Node.js, Celery, Bull, Redis, PostgreSQL, MinIO
+
+**Frontend:** React, Next.js, React Flow, Tailwind CSS
+
+**Infrastructure:** Docker, GitHub Actions, Prometheus, Vercel
+
+**Robotics & IoT:** Pepper, Temi, Arduino, OBD-II, M5Stack
+
+---
+
+## Education
+
+| Qualification | Institution | Period |
+| --- | --- | --- |
+| M.Sc. Digital Technologies | TU Clausthal & Ostfalia University, Germany | Mar 2025 – Present |
+| B.Tech Computer Engineering | CHARUSAT, India (CGPA 7.6/10) | 2021 – 2024 |
+| Diploma in Computer Engineering | GTU, India (CGPA 8.92/10, High Distinction) | 2018 – 2021 |
+
+---
+
+## Contact
+
+- **Email:** [patnisiddharth1311@gmail.com](mailto:patnisiddharth1311@gmail.com)
+- **LinkedIn:** [siddharth-divyang-patni](https://www.linkedin.com/in/siddharth-divyang-patni-644857185)
+- **Portfolio:** [siddharth-portfolio-pi.vercel.app](https://siddharth-portfolio-pi.vercel.app)
+
+Open to roles and collaboration in agentic AI, LLM infrastructure, and autonomous systems.
+
+---
+
+## About This Repository
+
+The portfolio site is a single-page Next.js 15 application (App Router) written in TypeScript with Tailwind CSS v4, deployed on Vercel.
 
 ```bash
 npm install     # install dependencies
-npm run dev     # dev server → http://localhost:3000
-npm run build   # production build
+npm run dev     # start dev server at http://localhost:3000
+npm run build   # create a production build
 ```
 
-`app/` layout, page, global styles · `components/` sections, UI primitives, effects · `lib/data/` typed content (projects, experience, skills, education)
+**Structure**
 
----
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Siddharthpatni&background=07090e&ring=e23636&fire=e23636&currStreakLabel=00f3ff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=808BA0&border=283040" alt="GitHub Streak" />
-
-<img src="https://ghchart.rshah.org/e23636/Siddharthpatni" alt="Contribution Graph" width="90%" />
-
-*"It's not who I am underneath, but what I build that defines me."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A237E,50:B11313,100:e23636&height=120&section=footer" width="100%" />
-
-</div>
+- `app/` — layout, page, and global styles
+- `components/` — page sections, UI primitives, and visual effects
+- `lib/data/` — typed content for projects, experience, skills, and education
