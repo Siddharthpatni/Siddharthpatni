@@ -1,22 +1,25 @@
 # Siddharth Patni
 
-**AI & Autonomous Systems Engineer** · Agentic AI · Computer Vision · Robotics & IoT
+**AI & Autonomous Systems Engineer** · Agentic AI · LLM Infrastructure · Robotics
 
-Braunschweig, Germany · [patnisiddharth1311@gmail.com](mailto:patnisiddharth1311@gmail.com)
+M.Sc. Digital Technologies @ TU Clausthal & Ostfalia · Braunschweig, Germany
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://siddharth-portfolio-pi.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-divyang-patni-644857185)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Siddharthpatni)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:patnisiddharth1311@gmail.com)
 
 ---
 
 ## About
 
-I build production-grade LLM infrastructure, computer vision pipelines, and robotics integrations. My focus is on systems that act rather than only respond: agentic web automation with self-learning fallback cascades, LLM observability tooling, multi-robot orchestration, and visual workflow engines.
+I build AI systems that **act**, not just respond: agentic crawlers that learn from their own successes, compilers that turn human intent into verified robot skills, memory runtimes that stop agent mistakes from becoming permanent, and observability tooling that makes LLMs auditable.
 
-Currently pursuing an M.Sc. in Digital Technologies at TU Clausthal and Ostfalia University, Germany, alongside AI research and development work at Ciconia Systems GmbH.
+My background is backend engineering (Python, FastAPI, Celery, Redis, PostgreSQL, Docker) applied to AI/ML and robotics. I care about systems that are deterministic where they can be, honest about failure, and inspectable end to end.
 
-**Working languages:** English (C1), German (A2–B1)
+- 🎓 M.Sc. Digital Technologies, TU Clausthal & Ostfalia University (since Mar 2025)
+- 🚆 Currently: **FastMile**, a 6-person CORE Master's Project building an LLM-guided door-to-door mobility planner (WS 2026/27)
+- 🛰️ Currently: **Orbit Observers**, NeoSpace Hackathon team on the ClearSpace serviceable-satellite challenge
+- 🌍 Languages: English (C1), German (A2–B1)
 
 ---
 
@@ -24,83 +27,86 @@ Currently pursuing an M.Sc. in Digital Technologies at TU Clausthal and Ostfalia
 
 | Role | Organisation | Focus | Period |
 | --- | --- | --- | --- |
-| AI Software Engineer (R&D) | Ciconia Systems GmbH, CORE Research Group | Vergabepilot.AI, autonomous procurement document extraction | 2026 – Present |
-| Open Source Developer | Independent | Spidey, Sentinel, Cereforge, Workflow Engine | 2025 – Present |
+| AI Software Engineer (Research Intern) | CORE Research Group, TU Clausthal · Ciconia Systems GmbH | Vergabepilot.AI / NexusCrawler: agentic procurement-document extraction | Mar 2026 – Aug 2026 |
+| Open Source Developer | Independent | RoboWeaver, MemWeaver, Sentinel, Spidey, Workflow Engine | 2025 – Present |
 | Research Assistant | Academic Labs, IoT Prototyping | Robotics and embedded systems (ShopMate-R, AI Driver Safety) | 2024 – 2025 |
-| Software Developer Intern | L&T Technology Services | React and Flask services, Docker CI/CD, ~30% latency reduction | Dec 2023 – Apr 2024 |
+| Software Developer Intern | L&T Technology Services | React and Flask services, Docker CI/CD, ~30% latency reduction | Dec 2023 – May 2024 |
 | Data Analyst Intern | Snapfix Ltd. | SQL automation and workflow auditing | Jun 2023 – Jul 2023 |
 
 ---
 
-## Selected Projects
+## Featured Projects
 
-### Vergabepilot.AI
+### [NexusCrawler AI / Vergabepilot.AI](https://github.com/Siddharthpatni/NexusCrawler-AI)
 
-*Private research project, CORE Research Group / Ciconia Systems*
+*Built during my research internship, CORE Research Group × Ciconia Systems*
 
-Autonomous agentic system for extracting structured data from public procurement portals across 30+ portal families. Uses a seven-stage fallback cascade (cached, deterministic, adaptive, LLM code generation, learned route, computer-use agent, manual) with replayable self-learned routes, Redis-backed circuit breakers, 32-field deep extraction, and a suite of 262 tests.
+Autonomous agentic crawling and extraction engine. Each URL runs through a **7-strategy cascade**, cheapest first (cached → deterministic → adaptive → LLM-generated scraper → learned route → computer-use agent → manual), and stops at the first success. Successful LLM scrapers and computer-use routes are saved and replayed for free. URL intelligence covers **30 portal families on every continent**, with per-domain Redis circuit breakers and rate limiting, 1,000+ URL jobs (designed for 10,000+), 32-field German document extraction and **262 tests** in CI. Failures are reported honestly, in plain-English outcome buckets.
 
-`Python` · `FastAPI` · `Celery` · `Redis` · `PostgreSQL` · `MinIO` · `Playwright` · `browser-use` · `Docker`
+`Python` · `FastAPI` · `Celery` · `Redis` · `PostgreSQL` · `MinIO` · `Playwright` · `browser-use` · `Next.js` · `Prometheus`
 
-### [Spidey](https://github.com/Siddharthpatni/Spidey)
+### [RoboWeaver](https://github.com/Siddharthpatni/Roboweaver)
 
-Self-hosted autonomous agent platform with a live React Flow reasoning graph, offline speech recognition via Vosk, local model execution through Ollama, and a two-stage SFT to DPO fine-tuning pipeline spanning 17 modules. Runs entirely offline.
+An **LLVM-style compiler infrastructure for robotics**: `human intent → RoboIR → robot skill`. Task understanding, motion planning, safety analysis, simulation, code generation, deployment and recovery share one intermediate representation. The compiler is deterministic by default. A local Ollama co-pilot can explain results and propose fixes, but it can never bypass diagnostics, verification or deployment gates.
 
-`Python` · `FastAPI` · `React` · `React Flow` · `Vosk` · `Ollama` · `Unsloth` · `TRL`
+`Python` · `Compilers / IR` · `Motion Planning` · `Simulation` · `Ollama`
+
+### [MemWeaver](https://github.com/Siddharthpatni/MemWeaver)
+
+A fault-tolerant **lifelong memory runtime for AI agents**, published as `memweaver` / `engramward`. Instead of a passive vector store, it audits, buffers, reconciles and consolidates agent experience, so hallucinations, leaked data or crashed writes don't persist as permanent memory. Works with OpenAI, Claude and LangChain agents.
+
+`Python` · `LLM Agents` · `Memory Systems` · `PyPI`
 
 ### [Sentinel](https://github.com/Siddharthpatni/Sentinel)
 
-LLM observability proxy featuring span-tree request waterfalls, judge-model evaluations, and a SHA-256 hash-chained audit ledger designed against EU AI Act record-keeping requirements.
+Drop-in **LLM observability proxy** with span-tree request waterfalls, judge-model evaluations, and a SHA-256 hash-chained audit ledger designed against EU AI Act record-keeping requirements.
 
 `FastAPI` · `Celery` · `Next.js`
 
-### [Cereforge](https://github.com/Siddharthpatni/Cereforge)
+### [Spidey](https://github.com/Siddharthpatni/Spidey)
 
-Competitive AI engineering platform with 24 curated tasks, automated evaluation via Gemini, and an XP and leaderboard progression system.
+Fully offline, self-hosted **autonomous agent platform** with a live React Flow reasoning graph, Vosk speech recognition, local models via Ollama, and a two-stage SFT → DPO fine-tuning pipeline across 17 modules.
 
-`FastAPI` · `React` · `PostgreSQL`
-
-### [Workflow Engine](https://github.com/Siddharthpatni/Workflow_Engine)
-
-Distributed low-code automation platform in the spirit of n8n, built on Bull workers with sandboxed Node VM and containerised Python runtimes.
-
-`Node.js` · `React Flow` · `Redis`
+`Python` · `FastAPI` · `React Flow` · `Vosk` · `Ollama` · `Unsloth` · `TRL`
 
 ### [ShopMate-R](https://github.com/Siddharthpatni/ShopMate-R)
 
-Multi-robot grocery assistant combining Pepper for dialogue, Temi for autonomous navigation, and M5Stack IoT shelf sensors for inventory awareness.
+**Multi-robot grocery assistant**: Pepper handles dialogue, Temi handles autonomous navigation, and M5Stack IoT shelf sensors provide live inventory awareness.
 
-`Python` · `Flask` · `Robotics`
+`Python` · `Flask` · `Pepper` · `Temi` · `M5Stack`
 
 ---
 
-## Additional Projects
+## More Projects
 
 | Project | Description |
 | --- | --- |
-| [AI Driver Safety](https://github.com/Siddharthpatni/ai-driver-safety) | ADAS prototype: CNN traffic sign recognition, YOLOv4 pedestrian detection, dlib drowsiness monitoring, Arduino and OBD-II braking interface |
-| [Digital Inventory](https://github.com/Siddharthpatni/Digital_Inventory) | Retail SaaS with QR-based lookup, audit logging, hardened access control, and investor pitch materials |
+| [FastMile](https://github.com/Siddharthpatni/Fast-v1) | Team project: LLM-guided intermodal route planning across multiple transport modes in one door-to-door journey |
+| [Orbit Observers](https://github.com/Siddharthpatni/Orbit_Observers) | Monte Carlo simulator for rendezvous and proximity operations with tumbling GEO satellites (NeoSpace Hackathon, ClearSpace challenge) |
+| [Workflow Engine](https://github.com/Siddharthpatni/Workflow_Engine) | Distributed low-code automation platform in the spirit of n8n: Bull workers, sandboxed Node VM and containerised Python runtimes |
+| [Cereforge](https://github.com/Siddharthpatni/Cereforge) | Competitive AI engineering platform: 24 curated tasks, automated Gemini evaluation, XP and leaderboards |
+| [AI Driver Safety](https://github.com/Siddharthpatni/ai-driver-safety) | ADAS prototype: CNN traffic-sign recognition, YOLOv4 pedestrian detection, dlib drowsiness monitoring, Arduino and OBD-II braking interface |
+| [StockFlow](https://github.com/Siddharthpatni/Digital_Inventory) | Full-stack retail inventory SaaS with QR lookup, audit logging and hardened access control |
 | [LLM Chatbot](https://github.com/Siddharthpatni/LLM_chatbot) | Self-hosted DialoGPT deployment optimised for Apple Silicon (MPS), containerised with Docker |
-| [SmartBot](https://github.com/Siddharthpatni/Chatbot) | Offline-first FAQ assistant built with Flask and React, requiring no external API calls |
-| Multi-Disease Diagnostic | Medical image classification pipeline reaching approximately 85% accuracy and reducing per-case review from 30 minutes to 10 seconds |
+| [SmartBot](https://github.com/Siddharthpatni/Chatbot) | Offline-first FAQ assistant (Flask + React) with no external API calls |
 
 ---
 
-## Technical Skills
+## Tech Stack
 
 **Languages:** Python, TypeScript, JavaScript, SQL
 
-**AI & Machine Learning:** PyTorch, TensorFlow, Unsloth, TRL, SFT and DPO fine-tuning, Ollama, computer vision (CNN, YOLO, dlib)
+**AI / ML:** PyTorch, TensorFlow, Unsloth, TRL, SFT and DPO fine-tuning, Ollama, OpenRouter / Gemini, computer vision (CNN, YOLO, dlib)
 
-**Agentic Systems:** browser-use (computer-use agents), Playwright automation, cascade orchestration, self-healing scrapers
+**Agentic Systems:** browser-use computer-use agents, Playwright, cascade orchestration, self-healing code generation, agent memory
 
-**Backend:** FastAPI, Flask, Node.js, Celery, Bull, Redis, PostgreSQL, MinIO
+**Backend:** FastAPI, Flask, Node.js, Celery, Bull, Redis, PostgreSQL, SQLAlchemy / Alembic, MinIO
 
 **Frontend:** React, Next.js, React Flow, Tailwind CSS
 
-**Infrastructure:** Docker, GitHub Actions, Prometheus, Vercel
+**Infrastructure:** Docker Compose, GitHub Actions, Prometheus, Vercel
 
-**Robotics & IoT:** Pepper, Temi, Arduino, OBD-II, M5Stack
+**Robotics & IoT:** Pepper, Temi, Arduino, OBD-II, M5Stack, motion planning, simulation
 
 ---
 
@@ -114,28 +120,4 @@ Multi-robot grocery assistant combining Pepper for dialogue, Temi for autonomous
 
 ---
 
-## Contact
-
-- **Email:** [patnisiddharth1311@gmail.com](mailto:patnisiddharth1311@gmail.com)
-- **LinkedIn:** [siddharth-divyang-patni](https://www.linkedin.com/in/siddharth-divyang-patni-644857185)
-- **Portfolio:** [siddharth-portfolio-pi.vercel.app](https://siddharth-portfolio-pi.vercel.app)
-
-Open to roles and collaboration in agentic AI, LLM infrastructure, and autonomous systems.
-
----
-
-## About This Repository
-
-The portfolio site is a single-page Next.js 15 application (App Router) written in TypeScript with Tailwind CSS v4, deployed on Vercel.
-
-```bash
-npm install     # install dependencies
-npm run dev     # start dev server at http://localhost:3000
-npm run build   # create a production build
-```
-
-**Structure**
-
-- `app/` — layout, page, and global styles
-- `components/` — page sections, UI primitives, and visual effects
-- `lib/data/` — typed content for projects, experience, skills, and education
+Open to roles, research positions and collaboration in **agentic AI, LLM infrastructure and autonomous systems**. The best way to reach me is [email](mailto:patnisiddharth1311@gmail.com).
