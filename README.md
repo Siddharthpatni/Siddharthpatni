@@ -37,7 +37,7 @@ My background is backend engineering (Python, FastAPI, Celery, Redis, PostgreSQL
 
 ## Featured Projects
 
-### [NexusCrawler AI / Vergabepilot.AI](https://github.com/Siddharthpatni/NexusCrawler-AI)
+### NexusCrawler AI / Vergabepilot.AI
 
 *Built during my research internship, CORE Research Group × Ciconia Systems*
 
